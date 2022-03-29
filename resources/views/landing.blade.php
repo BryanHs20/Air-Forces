@@ -31,10 +31,6 @@
 						<ul class="links">
 						<ul class="links">
 							<li><a href="{{route('vista.blog')}}">Inicio</a></li>
-							<li><a href="dogs.html">Perros</a></li>
-						</ul>
-						<ul class="actions stacked">
-							<li><a href="#" class="button fit">Log In</a></li>
 						</ul>
 					</nav>
 
